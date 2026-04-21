@@ -1,0 +1,5 @@
+promo_status,holiday_status,nb_jours,avg_fill_rate,stockout_rate,avg_cost
+"Avec promotion","Jour normal",588,0.909,12.59,545.6
+"Sans promotion","Jour normal",9212,0.912,11.79,503.76
+"Sans promotion","Jour férié",193,0.932,9.33,368.34
+"Avec promotion","Jour férié",7,1.0,0.0,170.97

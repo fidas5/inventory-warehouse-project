@@ -1,0 +1,11 @@
+sku_id,product_name,category,stockout_rate,avg_cost,avg_efficiency
+SKU018,"Produit SKU018",Standard,22.6,837.89,0.796
+SKU015,"Produit SKU015",Standard,21.4,688.8,0.807
+SKU017,"Produit SKU017",Standard,17.6,489.44,0.843
+SKU005,"Produit SKU005",Standard,17.2,906.86,0.857
+SKU001,"Produit SKU001",Standard,16.2,255.78,0.853
+SKU014,"Produit SKU014",Standard,15.4,435.93,0.858
+SKU013,"Produit SKU013",Standard,14.0,671.41,0.875
+SKU020,"Produit SKU020",Standard,13.8,1361.91,0.882
+SKU019,"Produit SKU019",Standard,12.4,547.94,0.895
+SKU009,"Produit SKU009",Standard,11.4,703.33,0.904

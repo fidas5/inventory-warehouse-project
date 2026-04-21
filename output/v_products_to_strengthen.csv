@@ -1,0 +1,3 @@
+sku_id,product_name,category,stockout_rate,avg_fill_rate,avg_efficiency
+SKU003,"Produit SKU003",Standard,4.6,0.975,0.965
+SKU012,"Produit SKU012",Standard,4.4,0.972,0.964

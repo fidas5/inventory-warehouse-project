@@ -1,0 +1,3 @@
+warehouse_key,warehouse,warehouse_name,region,city
+1,WH_A,WH_A,,Local
+2,WH_B,WH_B,EMEA,EMEA

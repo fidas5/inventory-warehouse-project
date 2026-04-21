@@ -1,0 +1,4 @@
+policy_key,policy,policy_name,description
+1,base_stock,base_stock,Politique Base Stock
+2,minmax,minmax,Politique Min-Max
+3,ml_reorder,ml_reorder,Politique ML

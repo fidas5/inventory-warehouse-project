@@ -1,0 +1,4 @@
+policy_name,total_days,avg_fill_rate,stockout_rate,avg_cost,avg_efficiency
+ml_reorder,3500,0.958,6.09,328.98,0.948
+minmax,3250,0.929,10.31,519.89,0.913
+base_stock,3250,0.847,19.38,674.66,0.827

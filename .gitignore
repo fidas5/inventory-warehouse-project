@@ -1,0 +1,7 @@
+projetdwh-493922-2575fd0bf2e9.json
+**/projetdwh-493922-2575fd0bf2e9.json
+
+*.json
+!package.json
+!package-lock.json
+.venv/
